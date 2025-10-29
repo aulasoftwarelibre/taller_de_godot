@@ -12,5 +12,5 @@ Aquí se suministra el código de ejemplo de ambos juegos enseñados en la charl
 Para clonar el repositorio:
 
 ```
-git clone ...
+git clone https://github.com/aulasoftwarelibre/taller_de_godot.git
 ```
